@@ -1,14 +1,14 @@
 # Wallpapers list
 
-| Name                    | Width  | Height | Preview |
-|-------------------------|--------|--------| <img src=""
-| anonymous.jpg           | 1600px | 1200px |
-| life_cycle.jpg          | 1920px | 1080px |
-| offline.jpg             | 1920px | 1080px |
-| simple_code.png         | 3840px | 2160px |
-| simple_code_blue.png    | 3840px | 2160px |
-| cafeine.png             | 1600px | 873px  |
-| symbols.jpg             | 1920px | 1080px |
-| machine.png             | 1600px | 873px  |
-| programm_life_cycle.jpg | 1920px | 1080px |
-| binary.jpg              | 2048px | 1152px |
+| Name                                                                                                        | Width  | Height | Preview                                                                                                                        |
+|-------------------------------------------------------------------------------------------------------------|--------|--------|-------------------------------------------------------------------------------------------------------------------------------|
+| <a href="https://github.com/LilTim0/others/blob/main/wallpapers/anonymous.jpg">anonymous</a>                     | 1600px | 1200px | <img src="https://github.com/LilTim0/others/blob/main/wallpapers/anonymous.jpg" height=250px>           |
+| <a href="https://github.com/LilTim0/others/blob/main/wallpapers/life_cycle.jpg">life_cycle</a>                   | 1920px | 1080px | <img src="https://github.com/LilTim0/others/blob/main/wallpapers/life_cycle.jpg" height=250px>          |
+| <a href="https://github.com/LilTim0/others/blob/main/wallpapers/offline.jpg">offline</a>                         | 1920px | 1080px | <img src="https://github.com/LilTim0/others/blob/main/wallpapers/offline.jpg" height=250px>             |
+| <a href="https://github.com/LilTim0/others/blob/main/wallpapers/simple_code.png">simple_code</a>                 | 3840px | 2160px | <img src="https://github.com/LilTim0/others/blob/main/wallpapers/simple_code.png" height=250px>         |
+| <a href="https://github.com/LilTim0/others/blob/main/wallpapers/simple_code_blue.png">simple_code_blue</a>       | 3840px | 2160px | <img src="https://github.com/LilTim0/others/blob/main/wallpapers/simple_code_blue.png" height=250px>    |
+| <a href="https://github.com/LilTim0/others/blob/main/wallpapers/cafein.png">cafeine</a>                          | 1600px | 873px  | <img src="https://github.com/LilTim0/others/blob/main/wallpapers/cafeine.png" height=250px>             |
+| <a href="https://github.com/LilTim0/others/blob/main/wallpapers/symbols.jpg">symbols</a>                         | 1920px | 1080px | <img src="https://github.com/LilTim0/others/blob/main/wallpapers/symbols.jpg" height=250px>             |
+| <a href="https://github.com/LilTim0/others/blob/main/wallpapers/machine.png">machine</a>                         | 1600px | 873px  | <img src="https://github.com/LilTim0/others/blob/main/wallpapers/machine.png" height=250px>             |
+| <a href="https://github.com/LilTim0/others/blob/main/wallpapers/programm_life_cycle.jpg">programm_life_cycle</a> | 1920px | 1080px | <img src="https://github.com/LilTim0/others/blob/main/wallpapers/programm_life_cycle.jpg" height=250px> |
+| <a href="https://github.com/LilTim0/others/blob/main/wallpapers/binary.jpg">binary</a>                           | 2048px | 1152px | <img src="https://github.com/LilTim0/others/blob/main/wallpapers/binary.jpg" height=250px>              |
